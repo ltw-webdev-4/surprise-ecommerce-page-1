@@ -13,7 +13,7 @@ deliverables: "Pattern library"
 - **You cannot change any patterns or CSS to make the page, everything should be ready.**
 - _You’ll be expected to rationalize to the teacher how well the process went._
 
-### [☛ Suprise page 1 content](https://secure.learn-the-web.algonquindesign.ca/web-dev-4/surprise-ecommerce-page-content-1.zip)
+### [☛ Suprise page 1 content](https://secure.learntheweb.courses/web-dev-4/surprise-ecommerce-page-content-1.zip)
 
 _The teacher will give you the password for the download when it’s time to start the coding exercise._
 
